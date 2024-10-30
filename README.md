@@ -13,7 +13,8 @@ Northwind Traders is a company known for distributing gourmet food products, the
   
 ## Data Modelling 
 ---
-In order to perform my analysis, I had to create a relatinship between thw tables. Whil Power BI automatically creates a relationship, I had to ensure that the Star Schema model wasin use and in order to do that, I need to make sure that there was a central fact table which is the order table and connect it to the various dimenension table using the primary key. 
+In order to perform my analysis, I had to create a relationship between the tables. While Power BI automatically creates a relationship, I had to ensure that the Star Schema model was in use and in order to do that, I made sure that there was a central fact table which is the order table. To establish a star schema model, this fact table needed to be connected to the other dimension table using the primary key that uniquely identify each record and connect it to the fact table through a foreign key relationship  
+
 <img width="943" alt="Nothwind Data Model " src="https://github.com/user-attachments/assets/3812e4de-8f90-49f5-a63c-7884e831d19b">
 
 
