@@ -11,17 +11,18 @@ Northwind Traders is a company known for distributing gourmet food products, the
  - DAX (Data Analysis Expression)
  - Visualization Pane 
   
-## Data Sources 
----
-## Data Transformation 
----
 ## Data Modelling 
 ---
+<img width="943" alt="Nothwind Data Model " src="https://github.com/user-attachments/assets/3812e4de-8f90-49f5-a63c-7884e831d19b">
 
-## Data Analysis 
----
+
 ## Data Visualization 
 ---
+
+<img width="769" alt="Northwind Dashboard " src="https://github.com/user-attachments/assets/197dcca4-142d-42f4-a1f2-7460d4f6c0a9">
+
+
+
 ## Analysis 
 ---
 ## Insights and Recommendation
