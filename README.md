@@ -26,6 +26,11 @@ In order to perform my analysis, I had to create a relationship between the tabl
 
 ## Analysis 
 ---
+In this analysis, we aim to answer various questions like: 
+* What is the overall sales trend
+* What is the best performing products
+* How are the various employees contribuiting to the total sale
+* How does the sales of goods vary across various months
 ## Insights and Recommendation
 ---
 
